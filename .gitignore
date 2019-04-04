@@ -1,0 +1,6 @@
+input/
+raw/
+
+*.pyc
+*.swp
+*~
